@@ -2,3 +2,4 @@ baseURL = "spontaneous-queijadas-a42539.netlify.app"
 languageCode = "fr-ca"
 title = "KoaMDv3"
 theme = "docsy"  # Or your theme's name
+defaultContentLanguage = "fr"
