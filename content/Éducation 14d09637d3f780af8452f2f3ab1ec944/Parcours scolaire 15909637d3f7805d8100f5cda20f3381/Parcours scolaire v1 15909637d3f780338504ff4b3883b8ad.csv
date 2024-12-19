@@ -1,0 +1,729 @@
+﻿Âge,Niveau,Matière,Objectif principal,Évalué par
+5,Initié,Langues et communication,"""Reconnaître les lettres de l’alphabet et leurs sons associés.""",IA
+5,Apprenti,Langues et communication,"""Apprendre à former des mots simples en combinant des lettres ou syllabes.""",IA
+5,Praticien,Langues et communication,"""Comprendre et suivre des consignes simples données à l’oral.""",Humain
+5,Confirmé,Langues et communication,"""Écouter des histoires courtes et répondre à des questions basiques sur le contenu.""",Humain
+5,Avancé,Langues et communication,"""Nommer des objets, des couleurs et des animaux courants.""",IA
+5,Expert,Langues et communication,"""Commencer à écrire des mots simples et les noms propres.""",Humain
+5,Maître,Langues et communication,"""Participer à des discussions courtes en utilisant des phrases complètes.""",Humain
+6,Initié,Langues et communication,"""Lire des phrases simples en identifiant les mots familiers.""",IA
+6,Apprenti,Langues et communication,"""Écrire des phrases courtes décrivant une image ou une idée.""",IA
+6,Praticien,Langues et communication,"""Utiliser des mots descriptifs pour enrichir le vocabulaire (ex. : grand, petit, bleu).""",IA
+6,Confirmé,Langues et communication,"""Raconter une courte histoire avec un début, un milieu et une fin.""",Humain
+6,Avancé,Langues et communication,"""Poser et répondre à des questions sur des livres ou des images.""",Humain
+6,Expert,Langues et communication,"""Reconnaître les rimes et les motifs sonores dans des chansons ou des poèmes.""",Humain
+6,Maître,Langues et communication,"""Participer à des activités collectives nécessitant une communication claire.""",Humain
+7,Initié,Langues et communication,"""Lire des histoires simples et identifier les personnages principaux.""",IA
+7,Apprenti,Langues et communication,"""Écrire des phrases plus longues en utilisant des connecteurs simples comme ""et"" ou ""mais"".""",Humain
+7,Praticien,Langues et communication,"""Comprendre le rôle de la ponctuation, comme le point et la virgule, dans une phrase.""",IA
+7,Confirmé,Langues et communication,"""Créer des histoires ou des descriptions basées sur des images ou des expériences.""",Humain
+7,Avancé,Langues et communication,"""Partager des idées ou opinions simples dans une discussion de groupe.""",Humain
+7,Expert,Langues et communication,"""Apprendre à reformuler des phrases pour améliorer leur clarté.""",Humain
+7,Maître,Langues et communication,"""Présenter des idées ou des histoires à un petit groupe de manière confiante.""",Humain
+8,Initié,Langues et communication,"""Identifier les idées principales dans des textes courts et illustrés.""",IA
+8,Apprenti,Langues et communication,"""Utiliser des indices contextuels pour comprendre des mots inconnus.""",IA
+8,Praticien,Langues et communication,"""Décrire des personnages et des événements simples à l'oral et à l'écrit.""",Humain
+8,Confirmé,Langues et communication,"""Comparer les personnages ou les décors dans différentes histoires.""",Humain
+8,Avancé,Langues et communication,"""Écrire des récits avec un début, un milieu et une fin bien définis.""",Humain
+8,Expert,Langues et communication,"""Construire des phrases complexes en utilisant des connecteurs simples.""",Humain
+8,Maître,Langues et communication,"""Résumer de manière concise des histoires ou des textes informatifs.""",IA
+9,Initié,Langues et communication,"""Lire des textes simples et répondre à des questions basiques de compréhension.""",IA
+9,Apprenti,Langues et communication,"""Écrire des phrases descriptives en utilisant des adjectifs et des adverbes.""",IA
+9,Praticien,Langues et communication,"""Reconnaître les thèmes récurrents dans des récits courts ou des poèmes.""",Humain
+9,Confirmé,Langues et communication,"""Utiliser des dialogues dans des histoires pour développer les personnages.""",Humain
+9,Avancé,Langues et communication,"""Réviser et améliorer les brouillons pour la grammaire et la ponctuation.""",Humain
+9,Expert,Langues et communication,"""Comparer les perspectives de différents personnages dans une histoire.""",Humain
+9,Maître,Langues et communication,"""Analyser comment un décor influence l'intrigue d'une histoire.""",Humain
+10,Initié,Langues et communication,"""Identifier les métaphores et les comparaisons dans des textes littéraires.""",IA
+10,Apprenti,Langues et communication,"""Rédiger des paragraphes structurés avec une idée principale claire.""",IA
+10,Praticien,Langues et communication,"""Analyser les émotions des personnages à travers leurs actions et dialogues.""",Humain
+10,Confirmé,Langues et communication,"""Résumer l'évolution des personnages dans des récits complexes.""",Humain
+10,Avancé,Langues et communication,"""Explorer le ton et l’humeur dans les poèmes ou les textes narratifs.""",Humain
+10,Expert,Langues et communication,"""Utiliser des citations pour justifier une interprétation littéraire.""",IA
+10,Maître,Langues et communication,"""Écrire des analyses courtes sur l’impact du choix des mots d’un auteur.""",Humain
+11,Initié,Langues et communication,"""Analyser le message principal et les détails clés dans des textes complexes.""",IA
+11,Apprenti,Langues et communication,"""Différencier les faits des opinions dans des articles ou des essais.""",IA
+11,Praticien,Langues et communication,"""Examiner l'usage du symbolisme et du ton dans des passages littéraires.""",Humain
+11,Confirmé,Langues et communication,"""Résumer efficacement des textes longs tout en respectant leur intention.""",IA
+11,Avancé,Langues et communication,"""Identifier les erreurs de logique dans des arguments écrits.""",IA
+11,Expert,Langues et communication,"""Comparer les points de vue de deux auteurs sur un même sujet.""",Humain
+11,Maître,Langues et communication,"""Rédiger des essais bien structurés en utilisant des preuves textuelles.""",Humain
+12,Initié,Langues et communication,"""Identifier la structure des textes narratifs et informatifs pour comprendre les idées principales.""",IA
+12,Apprenti,Langues et communication,"""Comparer les thèmes, le ton et les intentions d’auteurs dans différents types de textes.""",Humain
+12,Praticien,Langues et communication,"""Résumer des textes de manière concise en conservant les idées principales.""",IA
+12,Confirmé,Langues et communication,"""Analyser le point de vue de l’auteur et l’influence de son contexte personnel.""",Humain
+12,Avancé,Langues et communication,"""Explorer les dispositifs littéraires comme la métaphore et le symbolisme dans les œuvres étudiées.""",Humain
+12,Expert,Langues et communication,"""Rédiger des réponses analytiques en justifiant ses interprétations avec des preuves textuelles.""",IA
+12,Maître,Langues et communication,"""Créer des essais explicatifs ou argumentatifs avec des structures logiques claires.""",IA
+13,Initié,Langues et communication,"""Comprendre les caractéristiques des genres littéraires comme la poésie, le théâtre et la prose.""",Humain
+13,Apprenti,Langues et communication,"""Analyser comment les dispositifs littéraires renforcent les thèmes dans une œuvre.""",Humain
+13,Praticien,Langues et communication,"""Examiner les thèmes récurrents dans des œuvres de différents genres et auteurs.""",Humain
+13,Confirmé,Langues et communication,"""Rédiger des œuvres originales inspirées des styles ou thèmes des genres étudiés.""",Humain
+13,Avancé,Langues et communication,"""Participer à des discussions pour partager des idées sur les textes étudiés.""",Humain
+13,Expert,Langues et communication,"""Explorer comment l’organisation narrative affecte l’impact d’une histoire ou d’un poème.""",Humain
+13,Maître,Langues et communication,"""Développer une analyse comparative approfondie entre deux œuvres ou auteurs.""",Humain
+14,Initié,Langues et communication,"""Réaliser des présentations structurées en articulant clairement ses idées.""",Humain
+14,Apprenti,Langues et communication,"""Utiliser des techniques de persuasion pour influencer un public à l’écrit ou à l’oral.""",Humain
+14,Praticien,Langues et communication,"""Adapter le ton et le langage selon le contexte, qu’il soit formel ou informel.""",Humain
+14,Confirmé,Langues et communication,"""Participer activement aux discussions, en fournissant des idées et des commentaires constructifs.""",Humain
+14,Avancé,Langues et communication,"""Analyser des arguments écrits pour identifier leur force et leur cohérence.""",IA
+14,Expert,Langues et communication,"""Développer des contre-arguments et réfuter des points de vue opposés de manière logique.""",IA
+14,Maître,Langues et communication,"""Améliorer ses essais ou discours en intégrant les retours de ses pairs ou enseignants.""",Humain
+15,Initié,Langues et communication,"""Analyser les thèmes principaux dans des textes littéraires, articles et discours.""",Humain
+15,Apprenti,Langues et communication,"""Comparer les styles d’écriture de différents auteurs ou périodes historiques.""",Humain
+15,Praticien,Langues et communication,"""Étudier comment les contextes historiques et culturels influencent les œuvres.""",Humain
+15,Confirmé,Langues et communication,"""Rédiger des essais structurés avec des introductions, des arguments et des conclusions claires.""",Humain
+15,Avancé,Langues et communication,"""Explorer des dispositifs rhétoriques comme l’éthos, le pathos et les logos dans des discours.""",Humain
+15,Expert,Langues et communication,"""Créer des récits narratifs ou analytiques en s’inspirant de genres variés.""",Humain
+15,Maître,Langues et communication,"""Présenter des analyses littéraires ou critiques devant un groupe en utilisant des supports visuels.""",Humain
+16,Initié,Langues et communication,"""Évaluer la cohérence et la validité des arguments dans des essais ou des articles.""",IA
+16,Apprenti,Langues et communication,"""Analyser les stratégies d’écriture pour persuader, informer ou divertir un public.""",IA
+16,Praticien,Langues et communication,"""Rédiger des critiques approfondies sur des œuvres littéraires ou culturelles.""",Humain
+16,Confirmé,Langues et communication,"""Participer à des débats formels en utilisant un raisonnement structuré et des contre-arguments.""",Humain
+16,Avancé,Langues et communication,"""Synthétiser des idées complexes dans des articles académiques en utilisant des citations appropriées.""",IA
+16,Expert,Langues et communication,"""Adapter son style d’écriture en fonction de l’audience et du média, comme des blogs ou des rapports.""",Humain
+16,Maître,Langues et communication,"""Collaborer à des projets de rédaction en équipe, comme des articles ou des publications scolaires.""",Humain
+17,Initié,Langues et communication,"""Créer des textes argumentatifs en intégrant des contre-arguments et des appels logiques.""",IA
+17,Apprenti,Langues et communication,"""Écrire des récits complexes avec des personnages bien développés et des intrigues profondes.""",Humain
+17,Praticien,Langues et communication,"""Analyser des œuvres littéraires en explorant des thèmes comme l’identité ou le pouvoir.""",Humain
+17,Confirmé,Langues et communication,"""Traduire des idées abstraites en récits captivants ou en essais analytiques.""",Humain
+17,Avancé,Langues et communication,"""Réviser et peaufiner des textes en fonction de retours pour améliorer la clarté et l’impact.""",Humain
+17,Expert,Langues et communication,"""Participer à des concours de rédaction ou des ateliers d’écriture avancés.""",Humain
+17,Maître,Langues et communication,"""Présenter des idées complexes dans des formats variés, comme des présentations multimédias ou des podcasts.""",Humain
+5,Initié,Mathématiques et raisonnement logique,"""Apprendre à reconnaître et nommer les chiffres de 1 à 10.""",IA
+5,Apprenti,Mathématiques et raisonnement logique,"""Compter des objets jusqu’à 10 en les regroupant visuellement.""",IA
+5,Praticien,Mathématiques et raisonnement logique,"""Associer des nombres à des quantités dans des situations simples.""",IA
+5,Confirmé,Mathématiques et raisonnement logique,"""Classer des objets selon leur taille, leur couleur ou leur forme.""",IA
+5,Avancé,Mathématiques et raisonnement logique,"""Identifier des motifs simples et les reproduire (ex. : rouge, bleu, rouge).""",IA
+5,Expert,Mathématiques et raisonnement logique,"""Comprendre les concepts de base comme ""plus"" et ""moins"".""",IA
+5,Maître,Mathématiques et raisonnement logique,"""Participer à des jeux impliquant des nombres ou des formes.""",Humain
+6,Initié,Mathématiques et raisonnement logique,"""Compter jusqu’à 20 et écrire les chiffres correspondants.""",IA
+6,Apprenti,Mathématiques et raisonnement logique,"""Réaliser des additions et soustractions simples à l’aide d’objets concrets.""",IA
+6,Praticien,Mathématiques et raisonnement logique,"""Reconnaitre des formes géométriques simples comme le cercle, le carré et le triangle.""",IA
+6,Confirmé,Mathématiques et raisonnement logique,"""Comparer des longueurs, des poids ou des volumes de manière visuelle.""",IA
+6,Avancé,Mathématiques et raisonnement logique,"""Trouver des solutions simples à des problèmes concrets, comme partager des objets également.""",Humain
+6,Expert,Mathématiques et raisonnement logique,"""Commencer à utiliser des tableaux ou des dessins pour organiser des informations.""",IA
+6,Maître,Mathématiques et raisonnement logique,"""Expliquer comment ils ont résolu un problème en utilisant des mots simples.""",Humain
+7,Initié,Mathématiques et raisonnement logique,"""Compter jusqu’à 50 et identifier des modèles numériques comme compter de 2 en 2.""",IA
+7,Apprenti,Mathématiques et raisonnement logique,"""Résoudre des problèmes d’addition et de soustraction avec des nombres jusqu’à 20.""",IA
+7,Praticien,Mathématiques et raisonnement logique,"""Créer des motifs complexes en combinant des formes ou des couleurs.""",Humain
+7,Confirmé,Mathématiques et raisonnement logique,"""Mesurer des objets avec des outils simples, comme une règle ou une corde.""",IA
+7,Avancé,Mathématiques et raisonnement logique,"""Comprendre les bases de l’heure (ex. : matin, midi, soir) et lire des horloges simples.""",IA
+7,Expert,Mathématiques et raisonnement logique,"""Utiliser des graphiques basiques pour représenter des données simples (ex. : préférences de couleur).""",IA
+7,Maître,Mathématiques et raisonnement logique,"""Proposer des solutions créatives à des défis mathématiques dans des activités ludiques.""",Humain
+8,Initié,Mathématiques et raisonnement logique,"""Apprendre les nombres et les opérations de base (addition et soustraction).""",IA
+8,Apprenti,Mathématiques et raisonnement logique,"""Identifier les formes géométriques simples et leurs propriétés.""",IA
+8,Praticien,Mathématiques et raisonnement logique,"""Résoudre des problèmes mathématiques simples liés au quotidien.""",IA
+8,Confirmé,Mathématiques et raisonnement logique,"""Reconnaître des motifs ou des séquences numériques simples.""",IA
+8,Avancé,Mathématiques et raisonnement logique,"""Utiliser des outils pour mesurer des longueurs ou des objets.""",IA
+8,Expert,Mathématiques et raisonnement logique,"""Effectuer des multiplications et des divisions simples.""",IA
+8,Maître,Mathématiques et raisonnement logique,"""Estimer et vérifier les résultats de calculs basiques.""",IA
+9,Initié,Mathématiques et raisonnement logique,"""Utiliser les fractions simples pour représenter des parts d’un tout.""",IA
+9,Apprenti,Mathématiques et raisonnement logique,"""Effectuer des calculs impliquant des nombres décimaux.""",IA
+9,Praticien,Mathématiques et raisonnement logique,"""Résoudre des problèmes en plusieurs étapes combinant plusieurs opérations.""",IA
+9,Confirmé,Mathématiques et raisonnement logique,"""Analyser et créer des graphiques simples comme des diagrammes à barres.""",IA
+9,Avancé,Mathématiques et raisonnement logique,"""Utiliser les concepts de symétrie et de rotation dans des figures géométriques.""",IA
+9,Expert,Mathématiques et raisonnement logique,"""Traduire des situations réelles en équations ou expressions mathématiques.""",IA
+9,Maître,Mathématiques et raisonnement logique,"""Calculer des pourcentages simples pour résoudre des problèmes pratiques.""",IA
+10,Initié,Mathématiques et raisonnement logique,"""Représenter des fractions et des nombres décimaux sur une droite numérique.""",IA
+10,Apprenti,Mathématiques et raisonnement logique,"""Explorer la relation entre les unités de mesure (longueur, poids, volume).""",IA
+10,Praticien,Mathématiques et raisonnement logique,"""Appliquer les formules pour calculer l’aire et le périmètre de figures.""",IA
+10,Confirmé,Mathématiques et raisonnement logique,"""Analyser les données dans des graphiques et des tableaux.""",IA
+10,Avancé,Mathématiques et raisonnement logique,"""Résoudre des équations simples en utilisant des concepts algébriques.""",IA
+10,Expert,Mathématiques et raisonnement logique,"""Identifier des angles et des relations entre les figures dans des contextes géométriques.""",IA
+10,Maître,Mathématiques et raisonnement logique,"""Créer et résoudre des problèmes mathématiques complexes liés à la vie courante.""",Humain
+11,Initié,Mathématiques et raisonnement logique,"""Résoudre des équations impliquant des variables inconnues.""",IA
+11,Apprenti,Mathématiques et raisonnement logique,"""Appliquer des concepts de proportions, ratios et taux à des scénarios pratiques.""",IA
+11,Praticien,Mathématiques et raisonnement logique,"""Étudier les propriétés des polygones, des cercles et des solides géométriques.""",IA
+11,Confirmé,Mathématiques et raisonnement logique,"""Interpréter les relations entre des données dans des graphiques avancés.""",IA
+11,Avancé,Mathématiques et raisonnement logique,"""Calculer la probabilité d’événements simples ou combinés.""",IA
+11,Expert,Mathématiques et raisonnement logique,"""Utiliser les notions de pente et de coordonnées dans des plans cartésiens.""",IA
+11,Maître,Mathématiques et raisonnement logique,"""Explorer des concepts avancés comme les fonctions et les transformations.""",IA
+12,Initié,Mathématiques et raisonnement logique,"""Simplifier des expressions algébriques en utilisant des règles de base.""",IA
+12,Apprenti,Mathématiques et raisonnement logique,"""Résoudre des équations linéaires simples en une ou deux étapes.""",IA
+12,Praticien,Mathématiques et raisonnement logique,"""Représenter des situations réelles à l’aide d’expressions algébriques.""",IA
+12,Confirmé,Mathématiques et raisonnement logique,"""Tracer et interpréter des graphiques simples sur un plan cartésien.""",IA
+12,Avancé,Mathématiques et raisonnement logique,"""Explorer les propriétés géométriques des polygones et des solides.""",IA
+12,Expert,Mathématiques et raisonnement logique,"""Appliquer des concepts de proportionnalité dans des contextes pratiques.""",IA
+12,Maître,Mathématiques et raisonnement logique,"""Analyser des ensembles de données en calculant la moyenne, la médiane et le mode.""",IA
+13,Initié,Mathématiques et raisonnement logique,"""Calculer l’aire, le périmètre et le volume de formes complexes.""",IA
+13,Apprenti,Mathématiques et raisonnement logique,"""Résoudre des problèmes impliquant des transformations géométriques (rotation, translation).""",IA
+13,Praticien,Mathématiques et raisonnement logique,"""Utiliser le raisonnement proportionnel pour résoudre des problèmes réels.""",IA
+13,Confirmé,Mathématiques et raisonnement logique,"""Analyser les tendances dans des graphiques ou des tableaux de données.""",IA
+13,Avancé,Mathématiques et raisonnement logique,"""Utiliser les règles de probabilité pour prédire les résultats d’expériences simples.""",IA
+13,Expert,Mathématiques et raisonnement logique,"""Représenter des relations mathématiques à l’aide de fonctions linéaires.""",IA
+13,Maître,Mathématiques et raisonnement logique,"""Valider des solutions mathématiques en justifiant chaque étape.""",IA
+14,Initié,Mathématiques et raisonnement logique,"""Étudier les relations entre des variables à travers des nuages de points et des équations.""",IA
+14,Apprenti,Mathématiques et raisonnement logique,"""Appliquer des modèles mathématiques pour résoudre des problèmes complexes.""",IA
+14,Praticien,Mathématiques et raisonnement logique,"""Calculer l’écart type et interpréter la variabilité dans des ensembles de données.""",IA
+14,Confirmé,Mathématiques et raisonnement logique,"""Optimiser des solutions dans des problèmes impliquant des contraintes spécifiques.""",IA
+14,Avancé,Mathématiques et raisonnement logique,"""Résoudre des scénarios impliquant des ratios, proportions et pourcentages.""",IA
+14,Expert,Mathématiques et raisonnement logique,"""Utiliser des concepts de géométrie avancée pour résoudre des problèmes de construction.""",IA
+14,Maître,Mathématiques et raisonnement logique,"""Créer et présenter des stratégies de résolution pour des problèmes multidimensionnels.""",Humain
+15,Initié,Mathématiques et raisonnement logique,"""Résoudre des équations linéaires et quadratiques à l’aide de différentes méthodes.""",IA
+15,Apprenti,Mathématiques et raisonnement logique,"""Analyser les fonctions et représenter des graphiques pour identifier leurs caractéristiques (racines, sommets).""",IA
+15,Praticien,Mathématiques et raisonnement logique,"""Appliquer les concepts de proportionnalité et de pourcentage dans des problèmes pratiques.""",IA
+15,Confirmé,Mathématiques et raisonnement logique,"""Explorer des relations géométriques simples, comme les angles et les triangles, dans des contextes réels.""",IA
+15,Avancé,Mathématiques et raisonnement logique,"""Effectuer des calculs de base sur des ensembles de données, comme la moyenne et l’écart type.""",IA
+15,Expert,Mathématiques et raisonnement logique,"""Résoudre des problèmes impliquant des combinaisons et des permutations simples.""",IA
+15,Maître,Mathématiques et raisonnement logique,"""Utiliser des outils numériques pour visualiser et vérifier des solutions mathématiques.""",IA
+16,Initié,Mathématiques et raisonnement logique,"""Étudier les propriétés des fonctions quadratiques et exponentielles pour résoudre des problèmes complexes.""",IA
+16,Apprenti,Mathématiques et raisonnement logique,"""Appliquer des concepts de géométrie analytique pour résoudre des problèmes dans un plan cartésien.""",IA
+16,Praticien,Mathématiques et raisonnement logique,"""Analyser des ensembles de données en utilisant des graphiques et des mesures de tendance centrale.""",IA
+16,Confirmé,Mathématiques et raisonnement logique,"""Utiliser les probabilités pour prédire des résultats dans des expériences ou des jeux de hasard.""",IA
+16,Avancé,Mathématiques et raisonnement logique,"""Résoudre des systèmes d’équations linéaires à deux ou trois variables.""",IA
+16,Expert,Mathématiques et raisonnement logique,"""Modéliser des problèmes réels avec des équations algébriques ou des fonctions.""",IA
+16,Maître,Mathématiques et raisonnement logique,"""Expliquer les solutions mathématiques à des pairs en utilisant un raisonnement structuré.""",Humain
+17,Initié,Mathématiques et raisonnement logique,"""Explorer les concepts de calcul différentiel pour analyser les taux de changement.""",IA
+17,Apprenti,Mathématiques et raisonnement logique,"""Étudier les fonctions logarithmiques et trigonométriques pour des applications complexes.""",IA
+17,Praticien,Mathématiques et raisonnement logique,"""Analyser des problèmes multidimensionnels impliquant des matrices ou des vecteurs.""",IA
+17,Confirmé,Mathématiques et raisonnement logique,"""Calculer les probabilités conditionnelles dans des scénarios avancés, comme les arbres de décision.""",IA
+17,Avancé,Mathématiques et raisonnement logique,"""Utiliser des logiciels ou des outils comme Python ou Excel pour analyser de grandes quantités de données.""",IA
+17,Expert,Mathématiques et raisonnement logique,"""Résoudre des problèmes d’optimisation liés à des contextes économiques ou scientifiques.""",IA
+17,Maître,Mathématiques et raisonnement logique,"""Présenter des projets mathématiques interdisciplinaires combinant logique, algèbre et analyse.""",Humain
+5,Initié,Sciences naturelles,"""Observer et nommer des éléments de la nature, comme les plantes, les animaux et les roches.""",Humain
+5,Apprenti,Sciences naturelles,"""Identifier les parties du corps humain et leurs fonctions de base.""",Humain
+5,Praticien,Sciences naturelles,"""Reconnaître les besoins fondamentaux des êtres vivants (eau, nourriture, abri).""",Humain
+5,Confirmé,Sciences naturelles,"""Observer et décrire des phénomènes simples, comme la pluie ou le vent.""",Humain
+5,Avancé,Sciences naturelles,"""Classer des objets naturels selon leurs caractéristiques (taille, couleur, texture).""",IA
+5,Expert,Sciences naturelles,"""Comprendre que les plantes poussent à partir de graines et ont besoin de lumière et d’eau.""",Humain
+5,Maître,Sciences naturelles,"""Participer à des activités simples d’exploration de la nature, comme la collecte de feuilles.""",Humain
+6,Initié,Sciences naturelles,"""Décrire les cycles naturels, comme le jour et la nuit ou les saisons.""",IA
+6,Apprenti,Sciences naturelles,"""Observer et comparer les différences entre les plantes et les animaux.""",Humain
+6,Praticien,Sciences naturelles,"""Explorer les états de la matière (solide, liquide, gaz) avec des exemples simples.""",IA
+6,Confirmé,Sciences naturelles,"""Découvrir les habitats des animaux et leur adaptation à leur environnement.""",Humain
+6,Avancé,Sciences naturelles,"""Participer à des expériences simples, comme faire flotter ou couler des objets.""",Humain
+6,Expert,Sciences naturelles,"""Comprendre que l’énergie vient du soleil et permet aux plantes de grandir.""",IA
+6,Maître,Sciences naturelles,"""Expliquer des observations en utilisant des mots simples (ex. : « Les arbres perdent leurs feuilles en automne »).""",Humain
+7,Initié,Sciences naturelles,"""Étudier les relations entre les êtres vivants dans des chaînes alimentaires simples.""",Humain
+7,Apprenti,Sciences naturelles,"""Observer les changements dans la nature, comme la croissance des plantes ou les cycles de vie.""",IA
+7,Praticien,Sciences naturelles,"""Découvrir les bases du recyclage et de la protection de l’environnement.""",IA
+7,Confirmé,Sciences naturelles,"""Décrire des forces simples, comme pousser ou tirer, et leurs effets sur les objets.""",IA
+7,Avancé,Sciences naturelles,"""Apprendre à utiliser des outils comme une loupe pour observer les petits détails.""",IA
+7,Expert,Sciences naturelles,"""Expliquer pourquoi certains matériaux, comme le plastique ou le métal, sont utilisés pour fabriquer des objets.""",IA
+7,Maître,Sciences naturelles,"""Proposer des idées pour protéger les animaux ou les plantes dans son environnement local.""",Humain
+8,Initié,Sciences naturelles,"""Identifier les besoins fondamentaux des êtres vivants, comme l’eau, la lumière et la nourriture.""",Humain
+8,Apprenti,Sciences naturelles,"""Reconnaître les parties de base des plantes et leur fonction.""",Humain
+8,Praticien,Sciences naturelles,"""Classer les animaux selon leurs caractéristiques simples.""",IA
+8,Confirmé,Sciences naturelles,"""Observer et décrire des cycles naturels, comme le cycle de vie d’une plante.""",IA
+8,Avancé,Sciences naturelles,"""Comprendre les propriétés de base de la matière (solide, liquide, gaz).""",IA
+8,Expert,Sciences naturelles,"""Mener des expériences simples pour observer les changements physiques.""",IA
+8,Maître,Sciences naturelles,"""Relier les phénomènes naturels à des observations quotidiennes.""",Humain
+9,Initié,Sciences naturelles,"""Expliquer les différences entre les propriétés physiques et chimiques de la matière.""",IA
+9,Apprenti,Sciences naturelles,"""Identifier les interactions simples entre plantes, animaux et environnement.""",Humain
+9,Praticien,Sciences naturelles,"""Comprendre comment les changements climatiques affectent les écosystèmes.""",IA
+9,Confirmé,Sciences naturelles,"""Étudier les effets de la force et du mouvement dans des expériences pratiques.""",IA
+9,Avancé,Sciences naturelles,"""Décrire les principes de base de l’électricité et des circuits simples.""",IA
+9,Expert,Sciences naturelles,"""Mener des expériences pour explorer la lumière et le son.""",IA
+9,Maître,Sciences naturelles,"""Analyser des données environnementales simples, comme les températures ou les précipitations.""",IA
+10,Initié,Sciences naturelles,"""Explorer la structure de base des cellules et leurs fonctions principales.""",IA
+10,Apprenti,Sciences naturelles,"""Étudier les relations alimentaires dans un écosystème, comme les chaînes alimentaires.""",IA
+10,Praticien,Sciences naturelles,"""Décrire les propriétés et comportements de la matière dans différents contextes.""",IA
+10,Confirmé,Sciences naturelles,"""Observer les forces, comme la gravité et la friction, et leurs effets sur le mouvement.""",IA
+10,Avancé,Sciences naturelles,"""Expliquer les concepts de base liés aux mélanges et solutions en chimie.""",IA
+10,Expert,Sciences naturelles,"""Analyser des phénomènes naturels comme la réfraction de la lumière ou l’érosion.""",IA
+10,Maître,Sciences naturelles,"""Proposer des solutions aux problèmes environnementaux locaux simples.""",Humain
+11,Initié,Sciences naturelles,"""Comprendre la structure et la fonction de l’ADN et des gènes.""",IA
+11,Apprenti,Sciences naturelles,"""Étudier les interactions entre les espèces dans des écosystèmes complexes.""",Humain
+11,Praticien,Sciences naturelles,"""Analyser des réactions chimiques, comme la combustion ou les acides-bases.""",IA
+11,Confirmé,Sciences naturelles,"""Expliquer les lois fondamentales de la physique, comme les lois de Newton.""",IA
+11,Avancé,Sciences naturelles,"""Observer les impacts de l’activité humaine sur les ressources naturelles.""",Humain
+11,Expert,Sciences naturelles,"""Évaluer des initiatives pour la durabilité et la conservation environnementale.""",Humain
+11,Maître,Sciences naturelles,"""Concevoir des expériences complexes pour explorer des phénomènes scientifiques.""",Humain
+12,Initié,Sciences naturelles,"""Identifier les composants clés des écosystèmes, comme les facteurs biotiques et abiotiques.""",IA
+12,Apprenti,Sciences naturelles,"""Comprendre les propriétés physiques de la matière, comme la densité et la solubilité.""",IA
+12,Praticien,Sciences naturelles,"""Observer et décrire des cycles naturels, comme le cycle de l’eau ou du carbone.""",IA
+12,Confirmé,Sciences naturelles,"""Classer les organismes vivants selon leurs caractéristiques principales.""",IA
+12,Avancé,Sciences naturelles,"""Expliquer les interactions simples entre la matière, l’énergie et les forces naturelles.""",IA
+12,Expert,Sciences naturelles,"""Mener des expériences pour observer des changements physiques et chimiques.""",IA
+12,Maître,Sciences naturelles,"""Analyser des données simples pour tirer des conclusions sur des phénomènes naturels.""",IA
+13,Initié,Sciences naturelles,"""Étudier les interactions dans un écosystème, comme les chaînes et réseaux alimentaires.""",IA
+13,Apprenti,Sciences naturelles,"""Comprendre les impacts des activités humaines sur l’environnement, comme la pollution.""",IA
+13,Praticien,Sciences naturelles,"""Décrire la structure de base de la cellule et ses fonctions principales.""",IA
+13,Confirmé,Sciences naturelles,"""Analyser les relations entre les forces, comme la gravité et la friction.""",IA
+13,Avancé,Sciences naturelles,"""Mener des expériences pour démontrer les transformations de l’énergie.""",IA
+13,Expert,Sciences naturelles,"""Observer et comparer les propriétés des mélanges et des solutions en chimie.""",IA
+13,Maître,Sciences naturelles,"""Proposer des solutions à des problèmes environnementaux locaux.""",Humain
+14,Initié,Sciences naturelles,"""Expliquer les lois de Newton et leur application dans des systèmes mécaniques.""",IA
+14,Apprenti,Sciences naturelles,"""Analyser les réactions chimiques, comme les acides-bases ou la combustion.""",IA
+14,Praticien,Sciences naturelles,"""Étudier les propriétés et comportements des ondes, comme la lumière et le son.""",IA
+14,Confirmé,Sciences naturelles,"""Explorer la structure et la fonction de l’ADN et son rôle dans l’hérédité.""",IA
+14,Avancé,Sciences naturelles,"""Relier les transformations énergétiques à des systèmes complexes, comme les moteurs.""",IA
+14,Expert,Sciences naturelles,"""Concevoir des expériences pour tester des hypothèses scientifiques.""",Humain
+14,Maître,Sciences naturelles,"""Évaluer des initiatives de conservation pour préserver la biodiversité.""",Humain
+15,Initié,Sciences naturelles,"""Analyser la structure de l’ADN et comprendre son rôle dans l’hérédité génétique.""",IA
+15,Apprenti,Sciences naturelles,"""Observer les cycles biologiques comme la photosynthèse et la respiration cellulaire.""",IA
+15,Praticien,Sciences naturelles,"""Étudier les bases des réactions chimiques, comme les équations d’oxydoréduction.""",IA
+15,Confirmé,Sciences naturelles,"""Comprendre les lois fondamentales de la physique, comme celles du mouvement et de l’énergie.""",IA
+15,Avancé,Sciences naturelles,"""Explorer les interactions simples entre les organismes dans les écosystèmes.""",IA
+15,Expert,Sciences naturelles,"""Réaliser des expériences en laboratoire pour observer des phénomènes simples.""",IA
+15,Maître,Sciences naturelles,"""Documenter des observations scientifiques dans des rapports structurés.""",Humain
+16,Initié,Sciences naturelles,"""Étudier les relations entre les gènes et l’environnement dans l’expression des traits.""",IA
+16,Apprenti,Sciences naturelles,"""Analyser les équilibres chimiques et les facteurs qui influencent les réactions.""",IA
+16,Praticien,Sciences naturelles,"""Utiliser les lois de la thermodynamique pour expliquer les transformations d’énergie.""",IA
+16,Confirmé,Sciences naturelles,"""Explorer les forces physiques, comme la gravité et la friction, dans des contextes pratiques.""",IA
+16,Avancé,Sciences naturelles,"""Examiner les impacts des activités humaines sur les écosystèmes et la biodiversité.""",Humain
+16,Expert,Sciences naturelles,"""Concevoir et réaliser des expériences pour tester des hypothèses scientifiques.""",Humain
+16,Maître,Sciences naturelles,"""Interpréter des données issues d’expériences pour tirer des conclusions fiables.""",IA
+17,Initié,Sciences naturelles,"""Appliquer les principes de la mécanique pour résoudre des problèmes complexes.""",IA
+17,Apprenti,Sciences naturelles,"""Analyser des phénomènes optiques, comme la réflexion et la réfraction, dans des systèmes réels.""",IA
+17,Praticien,Sciences naturelles,"""Étudier les dynamiques des populations et leurs interactions dans des écosystèmes complexes.""",Humain
+17,Confirmé,Sciences naturelles,"""Utiliser des outils numériques pour modéliser des phénomènes biologiques ou physiques.""",IA
+17,Avancé,Sciences naturelles,"""Explorer des problématiques environnementales, comme la gestion des ressources et les énergies renouvelables.""",IA
+17,Expert,Sciences naturelles,"""Proposer des solutions aux enjeux scientifiques globaux, comme la pollution ou le changement climatique.""",Humain
+17,Maître,Sciences naturelles,"""Présenter des résultats de recherche sous forme de rapports détaillés ou de présentations multimédias.""",Humain
+5,Initié,Histoire géographie et société,"""Reconnaître les membres de sa famille et expliquer leur rôle dans le foyer.""",Humain
+5,Apprenti,Histoire géographie et société,"""Comprendre les routines quotidiennes et leur importance (ex. : repas, école, sommeil).""",Humain
+5,Praticien,Histoire géographie et société,"""Identifier les lieux familiers comme la maison, l’école et les magasins.""",IA
+5,Confirmé,Histoire géographie et société,"""Comprendre les concepts simples de passé, présent et futur à travers des histoires.""",IA
+5,Avancé,Histoire géographie et société,"""Nommer les principales caractéristiques de son environnement local (parcs, rivières, montagnes).""",IA
+5,Expert,Histoire géographie et société,"""Observer des objets ou images liés à des événements ou traditions culturelles.""",Humain
+5,Maître,Histoire géographie et société,"""Participer à des discussions simples sur le partage et la coopération dans la communauté.""",Humain
+6,Initié,Histoire géographie et société,"""Décrire des événements marquants dans sa propre vie ou celle de sa famille.""",Humain
+6,Apprenti,Histoire géographie et société,"""Utiliser des cartes simples pour localiser sa ville ou des endroits familiers.""",IA
+6,Praticien,Histoire géographie et société,"""Reconnaître les différences entre les saisons et leurs impacts sur les activités humaines.""",IA
+6,Confirmé,Histoire géographie et société,"""Explorer les traditions et fêtes locales pour mieux comprendre sa culture.""",Humain
+6,Avancé,Histoire géographie et société,"""Discuter des métiers et des rôles des adultes dans sa communauté.""",Humain
+6,Expert,Histoire géographie et société,"""Comparer les modes de vie actuels avec ceux du passé à travers des récits.""",Humain
+6,Maître,Histoire géographie et société,"""Participer à des projets collaboratifs liés à l’histoire locale ou à l’environnement.""",Humain
+7,Initié,Histoire géographie et société,"""Identifier les symboles nationaux, comme le drapeau ou l’hymne national.""",Humain
+7,Apprenti,Histoire géographie et société,"""Comprendre les bases des règles et lois à travers des jeux ou des activités en classe.""",Humain
+7,Praticien,Histoire géographie et société,"""Découvrir des cultures et traditions d’autres pays à travers des contes ou des images.""",Humain
+7,Confirmé,Histoire géographie et société,"""Utiliser des cartes et des globes pour apprendre les concepts de pays, continents et océans.""",IA
+7,Avancé,Histoire géographie et société,"""Participer à des activités locales pour contribuer à la communauté (ex. : nettoyage d’un parc).""",Humain
+7,Expert,Histoire géographie et société,"""Discuter de la nécessité de protéger l’environnement et proposer des idées simples.""",Humain
+7,Maître,Histoire géographie et société,"""Créer des projets simples, comme des dessins ou des affiches, pour représenter des lieux ou des événements.""",Humain
+8,Initié,Histoire géographie et société,"""Identifier des événements historiques majeurs et leur importance.""",Humain
+8,Apprenti,Histoire géographie et société,"""Localiser des continents, des océans et des pays sur une carte.""",IA
+8,Praticien,Histoire géographie et société,"""Comprendre les traditions et les cultures locales à travers des récits simples.""",IA
+8,Confirmé,Histoire géographie et société,"""Créer des chronologies basiques pour organiser les événements dans le temps.""",IA
+8,Avancé,Histoire géographie et société,"""Observer comment les environnements naturels influencent les activités humaines.""",IA
+8,Expert,Histoire géographie et société,"""Comparer les modes de vie passés et présents dans une société donnée.""",Humain
+8,Maître,Histoire géographie et société,"""Participer à des discussions sur des valeurs partagées dans la communauté.""",Humain
+9,Initié,Histoire géographie et société,"""Explorer les causes et les effets des changements historiques importants.""",Humain
+9,Apprenti,Histoire géographie et société,"""Analyser les impacts de la géographie sur le développement des civilisations.""",IA
+9,Praticien,Histoire géographie et société,"""Cartographier des caractéristiques géographiques, comme les montagnes et les rivières.""",IA
+9,Confirmé,Histoire géographie et société,"""Étudier les liens entre les échanges commerciaux et la culture.""",IA
+9,Avancé,Histoire géographie et société,"""Découvrir les contributions des grandes figures historiques.""",Humain
+9,Expert,Histoire géographie et société,"""Discuter des enjeux actuels, comme la protection de l’environnement ou la mondialisation.""",Humain
+9,Maître,Histoire géographie et société,"""Proposer des solutions à des défis sociaux locaux simples.""",Humain
+10,Initié,Histoire géographie et société,"""Comprendre les systèmes économiques et leur influence sur les sociétés.""",Humain
+10,Apprenti,Histoire géographie et société,"""Étudier l'évolution des droits et des responsabilités des citoyens à travers l'histoire.""",Humain
+10,Praticien,Histoire géographie et société,"""Analyser les impacts des migrations sur les cultures et les économies.""",Humain
+10,Confirmé,Histoire géographie et société,"""Utiliser des outils comme les graphiques pour comprendre les données géographiques.""",IA
+10,Avancé,Histoire géographie et société,"""Examiner les relations entre les nations et leurs alliances historiques.""",Humain
+10,Expert,Histoire géographie et société,"""Participer à des simulations pour résoudre des conflits ou organiser des projets communautaires.""",Humain
+10,Maître,Histoire géographie et société,"""Explorer des exemples concrets d’interdépendance mondiale, comme le commerce international.""",Humain
+11,Initié,Histoire géographie et société,"""Évaluer les révolutions et les transformations majeures dans l’histoire.""",Humain
+11,Apprenti,Histoire géographie et société,"""Analyser les interactions entre les politiques, les cultures et l’économie à travers le temps.""",Humain
+11,Praticien,Histoire géographie et société,"""Étudier les défis globaux actuels, comme les crises migratoires ou les inégalités économiques.""",Humain
+11,Confirmé,Histoire géographie et société,"""Utiliser des systèmes d'information géographique pour analyser des ressources naturelles.""",IA
+11,Avancé,Histoire géographie et société,"""Créer des projets sur des thèmes historiques complexes, comme les guerres mondiales.""",Humain
+11,Expert,Histoire géographie et société,"""Proposer des plans pour améliorer la durabilité ou l’équité dans une société donnée.""",Humain
+11,Maître,Histoire géographie et société,"""Débattre de l'impact des choix politiques et économiques sur le monde contemporain.""",Humain
+12,Initié,Histoire géographie et société,"""Identifier les contributions majeures des civilisations anciennes, comme l'Égypte et la Grèce.""",Humain
+12,Apprenti,Histoire géographie et société,"""Localiser des événements historiques sur des cartes chronologiques simples.""",IA
+12,Praticien,Histoire géographie et société,"""Comprendre les relations entre les ressources naturelles et le développement des civilisations.""",IA
+12,Confirmé,Histoire géographie et société,"""Analyser les causes et les effets des révolutions majeures (industrielle, scientifique).""",Humain
+12,Avancé,Histoire géographie et société,"""Étudier les échanges culturels et économiques dans des sociétés passées.""",Humain
+12,Expert,Histoire géographie et société,"""Participer à des discussions sur les valeurs partagées dans l’histoire des sociétés.""",Humain
+12,Maître,Histoire géographie et société,"""Créer des diagrammes simples pour illustrer des relations historiques ou géographiques.""",IA
+13,Initié,Histoire géographie et société,"""Analyser les défis environnementaux actuels, comme le changement climatique et la déforestation.""",Humain
+13,Apprenti,Histoire géographie et société,"""Étudier les impacts de la colonisation sur les sociétés et les cultures locales.""",Humain
+13,Praticien,Histoire géographie et société,"""Interpréter des données géographiques à partir de cartes, de graphiques et de diagrammes.""",IA
+13,Confirmé,Histoire géographie et société,"""Examiner les relations entre les nations à travers des alliances et des conflits historiques.""",Humain
+13,Avancé,Histoire géographie et société,"""Étudier l’interdépendance des économies mondiales et les systèmes commerciaux.""",Humain
+13,Expert,Histoire géographie et société,"""Proposer des solutions à des enjeux environnementaux globaux, comme la gestion des ressources.""",Humain
+13,Maître,Histoire géographie et société,"""Créer des présentations ou des projets sur les interactions historiques et contemporaines.""",Humain
+14,Initié,Histoire géographie et société,"""Analyser les effets de la mondialisation sur les cultures, les politiques et les économies.""",Humain
+14,Apprenti,Histoire géographie et société,"""Étudier les organisations internationales et leur rôle dans les défis mondiaux.""",Humain
+14,Praticien,Histoire géographie et société,"""Examiner les relations entre les cultures à travers des échanges linguistiques et artistiques.""",Humain
+14,Confirmé,Histoire géographie et société,"""Développer des chronologies complexes pour montrer les liens entre des événements globaux.""",Humain
+14,Avancé,Histoire géographie et société,"""Proposer des stratégies pour la conservation et la gestion des ressources naturelles.""",Humain
+14,Expert,Histoire géographie et société,"""Créer des projets collaboratifs pour aborder des questions sociales ou environnementales locales.""",Humain
+14,Maître,Histoire géographie et société,"""Débattre des impacts des choix politiques et économiques sur le développement mondial.""",Humain
+15,Initié,Histoire géographie et société,"""Identifier les causes et les conséquences des révolutions majeures dans l’histoire mondiale.""",Humain
+15,Apprenti,Histoire géographie et société,"""Analyser les impacts des conflits mondiaux comme les guerres mondiales sur les sociétés et les frontières.""",Humain
+15,Praticien,Histoire géographie et société,"""Étudier l’évolution des droits humains à travers des événements historiques clés.""",Humain
+15,Confirmé,Histoire géographie et société,"""Explorer les relations entre les ressources naturelles et le développement économique.""",IA
+15,Avancé,Histoire géographie et société,"""Comprendre les bases des alliances internationales et des relations géopolitiques modernes.""",Humain
+15,Expert,Histoire géographie et société,"""Lire et interpréter des cartes historiques et contemporaines pour visualiser les changements géographiques.""",IA
+15,Maître,Histoire géographie et société,"""Participer à des discussions sur des sujets historiques ou géographiques en utilisant des preuves solides.""",Humain
+16,Initié,Histoire géographie et société,"""Comparer les systèmes politiques et économiques de différentes époques et régions.""",Humain
+16,Apprenti,Histoire géographie et société,"""Analyser des sources primaires et secondaires pour comprendre les perspectives historiques.""",Humain
+16,Praticien,Histoire géographie et société,"""Étudier les impacts de la colonisation sur les cultures locales et les économies globales.""",Humain
+16,Confirmé,Histoire géographie et société,"""Examiner les enjeux contemporains comme la mondialisation, la migration et le développement durable.""",Humain
+16,Avancé,Histoire géographie et société,"""Créer des cartes thématiques ou des graphiques illustrant des tendances géographiques.""",IA
+16,Expert,Histoire géographie et société,"""Explorer les défis actuels liés à la gestion des ressources naturelles à l’échelle mondiale.""",Humain
+16,Maître,Histoire géographie et société,"""Collaborer sur des projets de recherche liés à des thèmes historiques ou géographiques.""",Humain
+17,Initié,Histoire géographie et société,"""Analyser l’influence des grandes figures historiques et des idéologies sur les sociétés modernes.""",Humain
+17,Apprenti,Histoire géographie et société,"""Étudier les enjeux géopolitiques contemporains comme les conflits territoriaux ou les alliances stratégiques.""",Humain
+17,Praticien,Histoire géographie et société,"""Proposer des solutions pratiques à des problèmes sociaux ou environnementaux mondiaux.""",Humain
+17,Confirmé,Histoire géographie et société,"""Utiliser des systèmes d’information géographique (SIG) pour analyser des données spatiales complexes.""",IA
+17,Avancé,Histoire géographie et société,"""Organiser des débats sur des thèmes historiques ou géopolitiques en utilisant des arguments étayés.""",Humain
+17,Expert,Histoire géographie et société,"""Créer des projets interdisciplinaires intégrant histoire, géographie et enjeux actuels.""",Humain
+17,Maître,Histoire géographie et société,"""Présenter des recherches approfondies sur des sujets historiques ou géographiques sous forme de rapports ou d’expositions.""",Humain
+5,Initié,Arts et créativité,"""Explorer différents matériaux, comme les crayons, peintures et pâte à modeler.""",Humain
+5,Apprenti,Arts et créativité,"""Reproduire des formes simples comme des cercles, des triangles ou des lignes ondulées.""",Humain
+5,Praticien,Arts et créativité,"""Créer des dessins ou des peintures inspirés de la nature ou d’histoires entendues.""",Humain
+5,Confirmé,Arts et créativité,"""Participer à des activités musicales simples, comme chanter des chansons ou frapper des rythmes.""",Humain
+5,Avancé,Arts et créativité,"""Expérimenter avec des couleurs pour mélanger et créer de nouvelles teintes.""",Humain
+5,Expert,Arts et créativité,"""Observer et décrire ce qu’ils voient dans des œuvres d’art simples ou des illustrations.""",Humain
+5,Maître,Arts et créativité,"""Partager leurs créations avec leurs camarades et expliquer ce qu’elles représentent.""",Humain
+6,Initié,Arts et créativité,"""Utiliser des outils comme des ciseaux, pinceaux ou tampons pour réaliser des projets artistiques.""",Humain
+6,Apprenti,Arts et créativité,"""Créer des personnages ou des scènes pour illustrer une histoire ou une idée.""",Humain
+6,Praticien,Arts et créativité,"""Découvrir les bases des rythmes en tapant des séquences ou en jouant des instruments simples.""",Humain
+6,Confirmé,Arts et créativité,"""Représenter des émotions à travers des dessins ou des peintures.""",Humain
+6,Avancé,Arts et créativité,"""Collaborer avec d’autres pour créer une fresque ou un collage collectif.""",Humain
+6,Expert,Arts et créativité,"""Étudier les œuvres d’art locales ou historiques et en discuter les thèmes principaux.""",Humain
+6,Maître,Arts et créativité,"""Apprendre à respecter et apprécier les œuvres des autres lors de discussions en groupe.""",Humain
+7,Initié,Arts et créativité,"""Réaliser des projets intégrant plusieurs techniques, comme le collage et la peinture.""",Humain
+7,Apprenti,Arts et créativité,"""Créer des compositions plus complexes en utilisant des motifs et des textures.""",Humain
+7,Praticien,Arts et créativité,"""Exprimer des idées ou des histoires à travers des productions artistiques uniques.""",Humain
+7,Confirmé,Arts et créativité,"""Apprendre à utiliser la lumière et l’ombre pour donner de la profondeur aux créations.""",Humain
+7,Avancé,Arts et créativité,"""Explorer les bases du mouvement et de l’expression corporelle à travers des activités comme la danse.""",Humain
+7,Expert,Arts et créativité,"""Créer des œuvres en trois dimensions à l’aide de matériaux recyclés ou naturels.""",Humain
+7,Maître,Arts et créativité,"""Présenter leurs œuvres lors d’un événement de classe ou une exposition locale.""",Humain
+8,Initié,Arts et créativité,"""Explorer différents matériaux, comme les crayons, peintures et pastels, pour créer des œuvres simples.""",Humain
+8,Apprenti,Arts et créativité,"""Reproduire des motifs et formes inspirés de la nature ou de l’art.""",Humain
+8,Praticien,Arts et créativité,"""Exprimer des idées à travers des dessins ou peintures avec des thèmes simples.""",Humain
+8,Confirmé,Arts et créativité,"""Observer et discuter des œuvres d'art locales ou historiques.""",Humain
+8,Avancé,Arts et créativité,"""Participer à des activités musicales simples, comme chanter des comptines.""",Humain
+8,Expert,Arts et créativité,"""Créer des personnages ou des scènes dans des histoires illustrées.""",Humain
+8,Maître,Arts et créativité,"""Présenter des projets artistiques à des pairs, en expliquant leur inspiration.""",Humain
+9,Initié,Arts et créativité,"""Utiliser des techniques artistiques, comme l’ombrage ou le mélange des couleurs.""",Humain
+9,Apprenti,Arts et créativité,"""Composer des rythmes musicaux simples ou jouer des mélodies faciles.""",Humain
+9,Praticien,Arts et créativité,"""Collaborer pour créer des œuvres collectives, comme des fresques ou des pièces musicales.""",Humain
+9,Confirmé,Arts et créativité,"""Explorer différents styles artistiques et discuter de leur origine.""",Humain
+9,Avancé,Arts et créativité,"""Réaliser des projets multimédias, combinant texte, image ou son.""",Humain
+9,Expert,Arts et créativité,"""Analyser le message ou l’émotion transmis par une œuvre d’art.""",Humain
+9,Maître,Arts et créativité,"""Créer un projet artistique lié à une thématique, comme l’environnement ou l’identité.""",Humain
+10,Initié,Arts et créativité,"""Apprendre la perspective et appliquer des techniques avancées dans des dessins ou peintures.""",Humain
+10,Apprenti,Arts et créativité,"""Étudier des genres musicaux variés et leurs impacts culturels.""",Humain
+10,Praticien,Arts et créativité,"""Composer des pièces musicales ou des rythmes en utilisant des logiciels de création.""",IA
+10,Confirmé,Arts et créativité,"""Créer des costumes ou des décors pour des performances scéniques.""",Humain
+10,Avancé,Arts et créativité,"""Réaliser des sculptures ou des modèles en 3D avec des matériaux variés.""",Humain
+10,Expert,Arts et créativité,"""Développer un portfolio artistique en vue de présenter un style ou une progression personnelle.""",Humain
+10,Maître,Arts et créativité,"""Critiquer des œuvres d’art en utilisant un vocabulaire artistique précis.""",Humain
+11,Initié,Arts et créativité,"""Collaborer sur des productions artistiques interdisciplinaires, comme des spectacles ou des films.""",Humain
+11,Apprenti,Arts et créativité,"""Analyser l’évolution des mouvements artistiques et leur influence sociale.""",Humain
+11,Praticien,Arts et créativité,"""Concevoir des projets artistiques complexes intégrant des éléments numériques.""",IA
+11,Confirmé,Arts et créativité,"""Expérimenter avec des techniques ou matériaux non conventionnels pour innover.""",Humain
+11,Avancé,Arts et créativité,"""Produire une performance musicale ou théâtrale originale en collaboration.""",Humain
+11,Expert,Arts et créativité,"""Créer un projet artistique engagé, abordant des enjeux sociaux ou environnementaux.""",Humain
+11,Maître,Arts et créativité,"""Présenter des œuvres ou performances devant un public avec assurance et créativité.""",Humain
+12,Initié,Arts et créativité,"""Explorer différents médiums artistiques, comme le fusain, l'aquarelle et les outils numériques.""",Humain
+12,Apprenti,Arts et créativité,"""Créer des œuvres simples en appliquant les principes de base de composition (équilibre, contraste).""",Humain
+12,Praticien,Arts et créativité,"""Reproduire des styles artistiques en s’inspirant d’artistes ou de mouvements connus.""",Humain
+12,Confirmé,Arts et créativité,"""Expérimenter avec des matériaux pour découvrir de nouvelles textures et effets visuels.""",Humain
+12,Avancé,Arts et créativité,"""Participer à des projets collaboratifs, comme des fresques ou des installations artistiques.""",Humain
+12,Expert,Arts et créativité,"""Observer et discuter des émotions ou messages véhiculés dans des œuvres d’art.""",Humain
+12,Maître,Arts et créativité,"""Présenter ses créations en expliquant les choix artistiques et l’inspiration.""",Humain
+13,Initié,Arts et créativité,"""Réaliser des projets combinant plusieurs techniques, comme le collage et le dessin numérique.""",Humain
+13,Apprenti,Arts et créativité,"""Créer des personnages ou décors pour des performances scéniques ou des récits illustrés.""",Humain
+13,Praticien,Arts et créativité,"""Composer des rythmes ou des mélodies en explorant des bases de théorie musicale.""",Humain
+13,Confirmé,Arts et créativité,"""Analyser des œuvres d’art historiques et modernes pour comprendre leur contexte culturel.""",Humain
+13,Avancé,Arts et créativité,"""Concevoir des projets artistiques thématiques liés à des enjeux sociaux ou environnementaux.""",Humain
+13,Expert,Arts et créativité,"""Collaborer sur des productions artistiques interdisciplinaires, comme des spectacles ou des vidéos.""",Humain
+13,Maître,Arts et créativité,"""Critiquer des œuvres d’art en utilisant un vocabulaire artistique précis et constructif.""",Humain
+14,Initié,Arts et créativité,"""Créer des compositions complexes en utilisant des techniques avancées, comme la perspective.""",Humain
+14,Apprenti,Arts et créativité,"""Explorer des formes d’art numérique, comme l’animation ou le design graphique.""",IA
+14,Praticien,Arts et créativité,"""Produire des performances musicales ou théâtrales originales avec une narration créative.""",Humain
+14,Confirmé,Arts et créativité,"""Développer un portfolio artistique mettant en valeur les compétences et l’évolution personnelle.""",Humain
+14,Avancé,Arts et créativité,"""Analyser l’évolution des styles artistiques et leur impact sur la société.""",Humain
+14,Expert,Arts et créativité,"""Concevoir des projets artistiques expérimentaux en utilisant des matériaux ou approches innovants.""",Humain
+14,Maître,Arts et créativité,"""Présenter et défendre une vision artistique lors d’expositions ou d’événements publics.""",Humain
+15,Initié,Arts et créativité,"""Explorer des médiums variés, comme la peinture, la photographie et la création numérique.""",Humain
+15,Apprenti,Arts et créativité,"""Reproduire des œuvres classiques en utilisant des techniques d’imitation et d’analyse.""",Humain
+15,Praticien,Arts et créativité,"""Étudier les principes de composition, comme l’équilibre, le contraste et l’harmonie.""",Humain
+15,Confirmé,Arts et créativité,"""Créer des œuvres originales en s’inspirant de thèmes sociaux ou personnels.""",Humain
+15,Avancé,Arts et créativité,"""Analyser l’impact culturel et historique des mouvements artistiques majeurs.""",Humain
+15,Expert,Arts et créativité,"""Participer à des activités collaboratives, comme des fresques ou des installations.""",Humain
+15,Maître,Arts et créativité,"""Présenter ses créations en expliquant les choix artistiques devant un groupe.""",Humain
+16,Initié,Arts et créativité,"""Développer des compétences avancées dans un médium spécifique, comme l’animation ou le design graphique.""",IA
+16,Apprenti,Arts et créativité,"""Créer des projets multimédias combinant texte, image, son et vidéo.""",IA
+16,Praticien,Arts et créativité,"""Analyser des œuvres d’art en explorant les intentions de l’artiste et les réactions du public.""",Humain
+16,Confirmé,Arts et créativité,"""Expérimenter avec des matériaux innovants ou recyclés pour des créations durables.""",Humain
+16,Avancé,Arts et créativité,"""Participer à des productions scéniques, comme la conception de costumes ou de décors.""",Humain
+16,Expert,Arts et créativité,"""Collaborer avec des pairs pour réaliser des projets artistiques interdisciplinaires.""",Humain
+16,Maître,Arts et créativité,"""Organiser des expositions pour présenter des œuvres dans des espaces physiques ou virtuels.""",Humain
+17,Initié,Arts et créativité,"""Créer des œuvres complexes explorant des thèmes philosophiques, sociaux ou environnementaux.""",Humain
+17,Apprenti,Arts et créativité,"""Utiliser des logiciels avancés pour produire des visuels professionnels ou des animations.""",IA
+17,Praticien,Arts et créativité,"""Réaliser des performances artistiques intégrant théâtre, musique ou arts visuels.""",Humain
+17,Confirmé,Arts et créativité,"""Développer un portfolio d’œuvres reflétant une progression technique et conceptuelle.""",Humain
+17,Avancé,Arts et créativité,"""Analyser les interactions entre l’art, la technologie et la société dans des projets créatifs.""",Humain
+17,Expert,Arts et créativité,"""Participer à des concours ou événements artistiques pour partager des perspectives uniques.""",Humain
+17,Maître,Arts et créativité,"""Présenter et défendre des œuvres dans des contextes publics ou académiques, en justifiant les choix créatifs.""",Humain
+5,Initié,Éducation physique et santé,"""Apprendre à courir, sauter et lancer avec coordination et équilibre.""",Humain
+5,Apprenti,Éducation physique et santé,"""Participer à des jeux simples favorisant la motricité de base, comme attraper une balle.""",Humain
+5,Praticien,Éducation physique et santé,"""Comprendre l’importance de bouger chaque jour pour rester en bonne santé.""",Humain
+5,Confirmé,Éducation physique et santé,"""Suivre des consignes simples pour des exercices collectifs ou individuels.""",Humain
+5,Avancé,Éducation physique et santé,"""Découvrir les bases de l’hygiène personnelle, comme se laver les mains correctement.""",Humain
+5,Expert,Éducation physique et santé,"""Explorer différents types de mouvements à travers des activités ludiques, comme la danse.""",Humain
+5,Maître,Éducation physique et santé,"""Discuter des raisons pour lesquelles il est important de manger des aliments sains.""",Humain
+6,Initié,Éducation physique et santé,"""Améliorer les habiletés motrices en ajoutant de la précision, comme viser une cible.""",Humain
+6,Apprenti,Éducation physique et santé,"""Participer à des activités physiques qui nécessitent un travail d’équipe, comme des relais.""",Humain
+6,Praticien,Éducation physique et santé,"""Reconnaître les effets de l’activité physique sur le corps, comme le souffle ou les battements cardiaques.""",Humain
+6,Confirmé,Éducation physique et santé,"""Apprendre des exercices d’étirement pour améliorer la flexibilité et éviter les blessures.""",Humain
+6,Avancé,Éducation physique et santé,"""Découvrir les bases des règles des jeux ou sports simples, comme le respect des tours.""",Humain
+6,Expert,Éducation physique et santé,"""Identifier des aliments qui donnent de l’énergie et favorisent une bonne santé.""",Humain
+6,Maître,Éducation physique et santé,"""Proposer des idées pour rester actif en famille ou avec des amis.""",Humain
+7,Initié,Éducation physique et santé,"""Appliquer des techniques pour coordonner des mouvements plus complexes, comme sauter à la corde.""",Humain
+7,Apprenti,Éducation physique et santé,"""Participer à des circuits d’activités physiques pour améliorer l’endurance et la force.""",Humain
+7,Praticien,Éducation physique et santé,"""Comprendre comment le sommeil aide le corps à récupérer après l’exercice.""",Humain
+7,Confirmé,Éducation physique et santé,"""Explorer des jeux et activités traditionnels d’autres cultures.""",Humain
+7,Avancé,Éducation physique et santé,"""Apprendre à se calmer après une activité physique intense grâce à des exercices de respiration.""",Humain
+7,Expert,Éducation physique et santé,"""S’engager dans des discussions sur l’importance de respecter les autres lors d’activités collectives.""",Humain
+7,Maître,Éducation physique et santé,"""Créer une routine personnelle d’activité physique adaptée à leur quotidien.""",Humain
+8,Initié,Éducation physique et santé,"""Apprendre les bases de la coordination, comme courir, sauter et attraper.""",Humain
+8,Apprenti,Éducation physique et santé,"""Participer à des jeux simples favorisant le travail d’équipe et le fair-play.""",Humain
+8,Praticien,Éducation physique et santé,"""Découvrir les bases d’une alimentation saine et équilibrée.""",Humain
+8,Confirmé,Éducation physique et santé,"""Pratiquer des exercices d’échauffement et d’étirement pour éviter les blessures.""",Humain
+8,Avancé,Éducation physique et santé,"""Comprendre l’importance de l’hygiène personnelle, comme le lavage des mains.""",Humain
+8,Expert,Éducation physique et santé,"""S’amuser tout en explorant des activités physiques variées.""",Humain
+8,Maître,Éducation physique et santé,"""Discuter des bienfaits de l’exercice pour la santé physique et mentale.""",Humain
+9,Initié,Éducation physique et santé,"""Améliorer les habiletés sportives spécifiques, comme dribbler ou lancer avec précision.""",Humain
+9,Apprenti,Éducation physique et santé,"""Fixer des objectifs de remise en forme simples, comme courir une distance donnée.""",Humain
+9,Praticien,Éducation physique et santé,"""Reconnaître les signes de fatigue ou de stress et apprendre à y répondre.""",Humain
+9,Confirmé,Éducation physique et santé,"""Explorer des sports individuels et d’équipe pour découvrir ses préférences.""",Humain
+9,Avancé,Éducation physique et santé,"""Comprendre l’impact des choix alimentaires sur la performance physique.""",Humain
+9,Expert,Éducation physique et santé,"""Participer à des activités pour améliorer l’endurance et la force musculaire.""",Humain
+9,Maître,Éducation physique et santé,"""Discuter de l’importance de la prévention des blessures dans les activités sportives.""",Humain
+10,Initié,Éducation physique et santé,"""Appliquer des stratégies pour mieux collaborer dans des sports d’équipe complexes.""",Humain
+10,Apprenti,Éducation physique et santé,"""Planifier une routine d’entraînement adaptée à des objectifs personnels.""",Humain
+10,Praticien,Éducation physique et santé,"""Analyser les avantages du sommeil et de la gestion du stress sur la santé globale.""",Humain
+10,Confirmé,Éducation physique et santé,"""Pratiquer des techniques avancées, comme la respiration contrôlée pour la relaxation.""",Humain
+10,Avancé,Éducation physique et santé,"""Participer à des compétitions sportives en mettant en avant l’esprit sportif.""",Humain
+10,Expert,Éducation physique et santé,"""Découvrir l’anatomie de base pour mieux comprendre le fonctionnement du corps.""",Humain
+10,Maître,Éducation physique et santé,"""Créer un plan d’action pour améliorer sa condition physique sur le long terme.""",Humain
+11,Initié,Éducation physique et santé,"""Développer des stratégies avancées pour améliorer la performance sportive.""",Humain
+11,Apprenti,Éducation physique et santé,"""Analyser les données personnelles pour optimiser un programme de remise en forme.""",Humain
+11,Praticien,Éducation physique et santé,"""Participer activement à des activités de sensibilisation à la santé publique.""",Humain
+11,Confirmé,Éducation physique et santé,"""Comprendre l’importance de l’équilibre entre activité physique, nutrition et bien-être mental.""",Humain
+11,Avancé,Éducation physique et santé,"""Créer des routines sportives intégrées pour améliorer à la fois la force, l’endurance et la souplesse.""",Humain
+11,Expert,Éducation physique et santé,"""Collaborer pour organiser des événements sportifs ou des campagnes de promotion de la santé.""",Humain
+11,Maître,Éducation physique et santé,"""Encourager les autres en agissant comme mentor ou leader dans des contextes de santé et de fitness.""",Humain
+12,Initié,Éducation physique et santé,"""Apprendre les techniques de base pour améliorer l’endurance, la force et la flexibilité.""",Humain
+12,Apprenti,Éducation physique et santé,"""Participer à des activités sportives en équipe pour développer la collaboration et l’esprit sportif.""",Humain
+12,Praticien,Éducation physique et santé,"""Comprendre les bases de la nutrition et leur impact sur les performances physiques.""",Humain
+12,Confirmé,Éducation physique et santé,"""Établir des routines d’échauffement et d’étirement pour prévenir les blessures.""",Humain
+12,Avancé,Éducation physique et santé,"""Découvrir l’importance de l’hygiène de vie, comme le sommeil et la gestion du stress.""",Humain
+12,Expert,Éducation physique et santé,"""S’engager dans des activités physiques variées pour explorer ses préférences.""",Humain
+12,Maître,Éducation physique et santé,"""Discuter des bienfaits de l’exercice pour la santé physique, mentale et sociale.""",Humain
+13,Initié,Éducation physique et santé,"""Fixer des objectifs personnels de remise en forme et planifier des étapes pour les atteindre.""",Humain
+13,Apprenti,Éducation physique et santé,"""Analyser les facteurs influençant les performances physiques, comme la motivation ou l’hydratation.""",Humain
+13,Praticien,Éducation physique et santé,"""Explorer des sports individuels et collectifs pour découvrir des techniques avancées.""",Humain
+13,Confirmé,Éducation physique et santé,"""Participer à des compétitions amicales en mettant en avant l’esprit sportif et la stratégie.""",Humain
+13,Avancé,Éducation physique et santé,"""Évaluer les progrès physiques à l’aide d’outils comme des applications ou des journaux de suivi.""",Humain
+13,Expert,Éducation physique et santé,"""Comprendre les concepts de base liés à l’anatomie et à la physiologie humaine.""",Humain
+13,Maître,Éducation physique et santé,"""Proposer des solutions pour intégrer des habitudes de vie actives dans un emploi du temps chargé.""",Humain
+14,Initié,Éducation physique et santé,"""Appliquer des stratégies avancées pour améliorer la performance dans des sports spécifiques.""",Humain
+14,Apprenti,Éducation physique et santé,"""Créer et suivre un programme d’entraînement personnalisé adapté à ses besoins.""",Humain
+14,Praticien,Éducation physique et santé,"""Analyser les choix de vie et leur impact sur la santé à long terme, comme la nutrition ou l’exercice.""",Humain
+14,Confirmé,Éducation physique et santé,"""Participer activement à des initiatives de sensibilisation à la santé dans sa communauté.""",Humain
+14,Avancé,Éducation physique et santé,"""Travailler en collaboration pour organiser des événements sportifs ou des défis de remise en forme.""",Humain
+14,Expert,Éducation physique et santé,"""Utiliser des connaissances sur le corps humain pour améliorer les techniques sportives.""",Humain
+14,Maître,Éducation physique et santé,"""Agir comme mentor ou guide pour encourager les autres à adopter un mode de vie sain.""",Humain
+15,Initié,Éducation physique et santé,"""Apprendre les techniques de base pour des sports variés, comme l’endurance, la force et la flexibilité.""",Humain
+15,Apprenti,Éducation physique et santé,"""Participer activement à des sports d’équipe en respectant les stratégies et les règles.""",Humain
+15,Praticien,Éducation physique et santé,"""Comprendre les bases de la nutrition et leur impact sur la performance physique et mentale.""",Humain
+15,Confirmé,Éducation physique et santé,"""Appliquer des exercices d’échauffement et d’étirement adaptés pour prévenir les blessures.""",Humain
+15,Avancé,Éducation physique et santé,"""Reconnaître les effets de l’activité physique sur la santé mentale, comme la gestion du stress.""",Humain
+15,Expert,Éducation physique et santé,"""Explorer des pratiques de bien-être, comme la méditation ou le yoga, pour renforcer la résilience.""",Humain
+15,Maître,Éducation physique et santé,"""Discuter de l’importance d’un mode de vie actif et équilibré dans des contextes variés.""",Humain
+16,Initié,Éducation physique et santé,"""Développer des routines d’entraînement personnalisées pour atteindre des objectifs spécifiques.""",Humain
+16,Apprenti,Éducation physique et santé,"""Analyser les facteurs qui influencent la performance physique, comme la récupération et l’hydratation.""",Humain
+16,Praticien,Éducation physique et santé,"""Participer à des compétitions ou événements sportifs en mettant en avant l’esprit sportif.""",Humain
+16,Confirmé,Éducation physique et santé,"""Explorer les bases de l’anatomie et de la physiologie pour mieux comprendre les fonctions corporelles.""",Humain
+16,Avancé,Éducation physique et santé,"""Observer et ajuster les techniques sportives pour améliorer les performances individuelles.""",Humain
+16,Expert,Éducation physique et santé,"""Discuter des enjeux de santé publique, comme les effets de la sédentarité ou de la malnutrition.""",Humain
+16,Maître,Éducation physique et santé,"""Proposer des solutions pour promouvoir l’activité physique dans sa communauté ou son école.""",Humain
+17,Initié,Éducation physique et santé,"""Appliquer des stratégies avancées pour améliorer les performances dans des sports spécifiques.""",Humain
+17,Apprenti,Éducation physique et santé,"""Utiliser des outils technologiques pour suivre et analyser les progrès en condition physique.""",IA
+17,Praticien,Éducation physique et santé,"""Planifier des événements ou des campagnes de sensibilisation pour promouvoir la santé et le sport.""",Humain
+17,Confirmé,Éducation physique et santé,"""Participer activement à des programmes de prévention, comme des ateliers sur les risques liés aux blessures.""",Humain
+17,Avancé,Éducation physique et santé,"""Explorer l’impact de l’activité physique sur les fonctions cognitives et les performances scolaires.""",Humain
+17,Expert,Éducation physique et santé,"""Proposer des solutions pour réduire les barrières à l’activité physique dans des contextes locaux.""",Humain
+17,Maître,Éducation physique et santé,"""Encourager et guider les autres en tant que mentor ou entraîneur pour des activités sportives ou de santé.""",Humain
+5,Initié,Technologie et compétences numériques,"""Apprendre à allumer et éteindre un appareil numérique en toute sécurité.""",IA
+5,Apprenti,Technologie et compétences numériques,"""Reconnaître les fonctions de base, comme cliquer avec une souris ou toucher un écran.""",IA
+5,Praticien,Technologie et compétences numériques,"""Utiliser des logiciels simples pour dessiner ou colorier des images.""",IA
+5,Confirmé,Technologie et compétences numériques,"""Explorer des jeux éducatifs pour apprendre les lettres, les chiffres ou les formes.""",IA
+5,Avancé,Technologie et compétences numériques,"""Apprendre à suivre des consignes sur un logiciel ou une application numérique.""",IA
+5,Expert,Technologie et compétences numériques,"""Comprendre les règles de base de la sécurité numérique, comme demander avant de télécharger.""",IA
+5,Maître,Technologie et compétences numériques,"""Partager des idées ou des créations en utilisant des outils numériques simples.""",IA
+6,Initié,Technologie et compétences numériques,"""Créer des dessins numériques en utilisant des outils comme des pinceaux ou des formes prédéfinies.""",IA
+6,Apprenti,Technologie et compétences numériques,"""Explorer des applications pour classer des objets ou organiser des images par catégories.""",IA
+6,Praticien,Technologie et compétences numériques,"""Suivre des activités interactives pour apprendre à résoudre des problèmes simples.""",IA
+6,Confirmé,Technologie et compétences numériques,"""Découvrir comment taper des lettres ou des mots à l’aide d’un clavier.""",IA
+6,Avancé,Technologie et compétences numériques,"""Participer à des projets collectifs en utilisant des outils numériques partagés.""",Humain
+6,Expert,Technologie et compétences numériques,"""Observer comment les technologies peuvent aider dans la vie quotidienne, comme chercher des informations.""",IA
+6,Maître,Technologie et compétences numériques,"""Expliquer leurs actions sur un appareil numérique, comme sauvegarder un fichier ou imprimer.""",Humain
+7,Initié,Technologie et compétences numériques,"""Créer des histoires ou des présentations simples en combinant texte, images et sons.""",IA
+7,Apprenti,Technologie et compétences numériques,"""Apprendre à naviguer sur des plateformes éducatives sécurisées.""",IA
+7,Praticien,Technologie et compétences numériques,"""Comprendre l’importance de protéger leurs informations personnelles en ligne.""",IA
+7,Confirmé,Technologie et compétences numériques,"""Explorer les bases de la programmation avec des jeux ou robots éducatifs adaptés.""",IA
+7,Avancé,Technologie et compétences numériques,"""Découvrir des outils numériques pour résoudre des problèmes créatifs, comme assembler des puzzles.""",IA
+7,Expert,Technologie et compétences numériques,"""Observer comment les robots ou technologies automatisées fonctionnent dans des vidéos ou ateliers.""",IA
+7,Maître,Technologie et compétences numériques,"""Proposer des idées pour utiliser la technologie afin d’aider leurs proches ou leur classe.""",Humain
+8,Initié,Technologie et compétences numériques,"""Apprendre à utiliser les fonctions de base d’un ordinateur, comme la souris et le clavier.""",IA
+8,Apprenti,Technologie et compétences numériques,"""Naviguer dans des logiciels simples, comme un traitement de texte ou un logiciel de dessin.""",IA
+8,Praticien,Technologie et compétences numériques,"""Comprendre les bases de la sécurité en ligne, comme protéger ses mots de passe.""",IA
+8,Confirmé,Technologie et compétences numériques,"""Créer des dessins ou projets simples à l’aide de logiciels numériques.""",IA
+8,Avancé,Technologie et compétences numériques,"""Enregistrer, organiser et retrouver des fichiers dans des dossiers numériques.""",IA
+8,Expert,Technologie et compétences numériques,"""Découvrir les bases de la communication en ligne, comme envoyer des e-mails.""",IA
+8,Maître,Technologie et compétences numériques,"""Participer à des activités numériques favorisant la créativité, comme les jeux éducatifs.""",IA
+9,Initié,Technologie et compétences numériques,"""Créer des documents plus complexes avec des outils de mise en forme avancés.""",IA
+9,Apprenti,Technologie et compétences numériques,"""Utiliser un logiciel de présentation pour créer un diaporama avec images et texte.""",IA
+9,Praticien,Technologie et compétences numériques,"""Explorer les bases du codage, comme les boucles et conditions dans des environnements simples.""",IA
+9,Confirmé,Technologie et compétences numériques,"""Découvrir les risques liés aux logiciels malveillants et apprendre à les éviter.""",IA
+9,Avancé,Technologie et compétences numériques,"""Réaliser un projet collaboratif en ligne en utilisant des outils partagés.""",IA
+9,Expert,Technologie et compétences numériques,"""Analyser des données simples dans un tableau, comme organiser une liste ou créer un graphique.""",IA
+9,Maître,Technologie et compétences numériques,"""Créer un projet numérique autour d’un thème, comme la conservation de l’environnement.""",Humain
+10,Initié,Technologie et compétences numériques,"""Développer des compétences avancées dans la conception multimédia, comme le montage vidéo.""",IA
+10,Apprenti,Technologie et compétences numériques,"""Apprendre les bases du langage HTML pour créer une page web simple.""",IA
+10,Praticien,Technologie et compétences numériques,"""Utiliser des outils de collaboration en ligne, comme le partage de documents en temps réel.""",IA
+10,Confirmé,Technologie et compétences numériques,"""Identifier et appliquer les bonnes pratiques en matière de cybersécurité.""",IA
+10,Avancé,Technologie et compétences numériques,"""Programmer des projets simples en utilisant des environnements visuels ou des scripts.""",IA
+10,Expert,Technologie et compétences numériques,"""Analyser des tendances dans des ensembles de données numériques pour tirer des conclusions.""",IA
+10,Maître,Technologie et compétences numériques,"""Créer une campagne numérique pour sensibiliser à un sujet social ou environnemental.""",Humain
+11,Initié,Technologie et compétences numériques,"""Concevoir et programmer des applications interactives ou des sites web complexes.""",IA
+11,Apprenti,Technologie et compétences numériques,"""Appliquer des algorithmes de base pour résoudre des problèmes numériques.""",IA
+11,Praticien,Technologie et compétences numériques,"""Créer des projets interdisciplinaires combinant art, sciences et technologie.""",Humain
+11,Confirmé,Technologie et compétences numériques,"""Évaluer les impacts sociaux et éthiques des technologies numériques modernes.""",Humain
+11,Avancé,Technologie et compétences numériques,"""Utiliser des systèmes d’information géographique (SIG) pour des projets complexes.""",IA
+11,Expert,Technologie et compétences numériques,"""Travailler avec de grandes bases de données pour extraire des informations pertinentes.""",IA
+11,Maître,Technologie et compétences numériques,"""Former d’autres utilisateurs aux technologies ou outils numériques avancés.""",Humain
+12,Initié,Technologie et compétences numériques,"""Apprendre à utiliser les outils numériques de base, comme les traitements de texte et les tableurs.""",IA
+12,Apprenti,Technologie et compétences numériques,"""Organiser et structurer des fichiers dans des systèmes de gestion numérique.""",IA
+12,Praticien,Technologie et compétences numériques,"""Créer des présentations simples intégrant texte, images et animations.""",IA
+12,Confirmé,Technologie et compétences numériques,"""Comprendre les bases de la cybersécurité, comme la gestion des mots de passe et les bonnes pratiques en ligne.""",IA
+12,Avancé,Technologie et compétences numériques,"""Utiliser des plateformes numériques pour collaborer sur des projets en groupe.""",IA
+12,Expert,Technologie et compétences numériques,"""Explorer des logiciels éducatifs pour résoudre des problèmes pratiques.""",IA
+12,Maître,Technologie et compétences numériques,"""Découvrir les bases de la programmation à travers des environnements visuels ou des scripts simples.""",IA
+13,Initié,Technologie et compétences numériques,"""Créer des documents complexes en utilisant des outils de mise en page avancés.""",IA
+13,Apprenti,Technologie et compétences numériques,"""Analyser des données simples en créant des graphiques et des tableaux à l’aide d’un tableur.""",IA
+13,Praticien,Technologie et compétences numériques,"""Réaliser des projets multimédias en combinant vidéo, image et son.""",IA
+13,Confirmé,Technologie et compétences numériques,"""Comprendre les risques liés aux logiciels malveillants et savoir les éviter.""",IA
+13,Avancé,Technologie et compétences numériques,"""Appliquer les bases du codage pour créer des programmes ou des animations simples.""",IA
+13,Expert,Technologie et compétences numériques,"""Collaborer en ligne en utilisant des outils comme le partage de documents et les forums de discussion.""",IA
+13,Maître,Technologie et compétences numériques,"""Proposer des solutions numériques pour répondre à des problématiques concrètes, comme l’organisation d’événements.""",Humain
+14,Initié,Technologie et compétences numériques,"""Utiliser des outils numériques avancés, comme des logiciels de retouche ou des plateformes de création graphique.""",IA
+14,Apprenti,Technologie et compétences numériques,"""Programmer des projets plus complexes intégrant des boucles, des conditions et des variables.""",IA
+14,Praticien,Technologie et compétences numériques,"""Analyser des ensembles de données plus importants pour identifier des tendances et tirer des conclusions.""",IA
+14,Confirmé,Technologie et compétences numériques,"""Concevoir des sites web simples à l’aide de langages comme HTML et CSS.""",IA
+14,Avancé,Technologie et compétences numériques,"""Participer à des discussions sur l’éthique et les impacts de la technologie dans la société.""",Humain
+14,Expert,Technologie et compétences numériques,"""Créer et gérer des campagnes numériques pour sensibiliser à des enjeux sociaux ou environnementaux.""",Humain
+14,Maître,Technologie et compétences numériques,"""Former ses pairs à l’utilisation d’outils numériques spécifiques ou à des compétences avancées.""",Humain
+15,Initié,Technologie et compétences numériques,"""Utiliser des outils de bureautique avancés, comme les tableurs avec formules et graphiques complexes.""",IA
+15,Apprenti,Technologie et compétences numériques,"""Créer des présentations multimédias intégrant texte, images, vidéo et animations.""",IA
+15,Praticien,Technologie et compétences numériques,"""Comprendre les bases de la cybersécurité, comme la protection des données personnelles et le chiffrement.""",IA
+15,Confirmé,Technologie et compétences numériques,"""Explorer les bases de la programmation en utilisant des langages simples, comme Python ou JavaScript.""",IA
+15,Avancé,Technologie et compétences numériques,"""Analyser des données simples à l’aide d’outils comme Excel ou Google Sheets.""",IA
+15,Expert,Technologie et compétences numériques,"""Participer à des projets collaboratifs en ligne en utilisant des plateformes partagées.""",IA
+15,Maître,Technologie et compétences numériques,"""Discuter de l’impact des technologies numériques sur la société et les comportements individuels.""",Humain
+16,Initié,Technologie et compétences numériques,"""Créer des sites web de base en utilisant HTML, CSS et JavaScript.""",IA
+16,Apprenti,Technologie et compétences numériques,"""Programmer des projets simples en utilisant des boucles, des conditions et des fonctions.""",IA
+16,Praticien,Technologie et compétences numériques,"""Analyser de grands ensembles de données pour identifier des tendances et formuler des hypothèses.""",IA
+16,Confirmé,Technologie et compétences numériques,"""Utiliser des outils graphiques pour produire des visuels professionnels, comme des infographies.""",IA
+16,Avancé,Technologie et compétences numériques,"""Collaborer sur des projets numériques interdisciplinaires, comme des blogs ou des portfolios en ligne.""",IA
+16,Expert,Technologie et compétences numériques,"""Comprendre les concepts d’intelligence artificielle et d’apprentissage automatique à travers des outils éducatifs.""",IA
+16,Maître,Technologie et compétences numériques,"""Proposer des solutions numériques pour résoudre des problèmes locaux ou globaux.""",IA
+17,Initié,Technologie et compétences numériques,"""Concevoir des applications ou des outils interactifs pour des projets spécifiques.""",IA
+17,Apprenti,Technologie et compétences numériques,"""Utiliser des outils avancés de visualisation de données pour créer des rapports complexes.""",IA
+17,Praticien,Technologie et compétences numériques,"""Explorer les implications éthiques et juridiques de l’utilisation des technologies modernes.""",Humain
+17,Confirmé,Technologie et compétences numériques,"""Participer à des concours ou hackathons pour développer des solutions numériques innovantes.""",Humain
+17,Avancé,Technologie et compétences numériques,"""Créer des projets numériques interdisciplinaires intégrant programmation, design et analyse.""",IA
+17,Expert,Technologie et compétences numériques,"""Développer un portfolio numérique présentant des compétences techniques avancées.""",Humain
+17,Maître,Technologie et compétences numériques,"""Former ses pairs ou sa communauté à l’utilisation responsable et efficace des technologies.""",Humain
+5,Initié,Compétences pratiques de vie et citoyenneté,"""Apprendre à respecter les règles simples dans des jeux ou activités en groupe.""",Humain
+5,Apprenti,Compétences pratiques de vie et citoyenneté,"""Partager des responsabilités, comme ranger après une activité.""",Humain
+5,Praticien,Compétences pratiques de vie et citoyenneté,"""Comprendre l’importance de dire « merci » et « s’il vous plaît » dans les interactions quotidiennes.""",Humain
+5,Confirmé,Compétences pratiques de vie et citoyenneté,"""Identifier les membres de la communauté et leurs rôles (enseignant, pompier, médecin).""",Humain
+5,Avancé,Compétences pratiques de vie et citoyenneté,"""Exprimer ses émotions de manière appropriée avec des mots simples.""",Humain
+5,Expert,Compétences pratiques de vie et citoyenneté,"""Participer à des activités collectives, comme chanter ou réaliser un projet en classe.""",Humain
+5,Maître,Compétences pratiques de vie et citoyenneté,"""Discuter de l’importance de prendre soin des objets partagés, comme les livres ou les jouets.""",Humain
+6,Initié,Compétences pratiques de vie et citoyenneté,"""Comprendre pourquoi il est important d’aider ses amis ou ses camarades de classe.""",Humain
+6,Apprenti,Compétences pratiques de vie et citoyenneté,"""Participer à des discussions pour résoudre des conflits mineurs, comme partager un jouet.""",Humain
+6,Praticien,Compétences pratiques de vie et citoyenneté,"""Apprendre à se fixer de petits objectifs, comme terminer une tâche dans un délai donné.""",Humain
+6,Confirmé,Compétences pratiques de vie et citoyenneté,"""Reconnaître les règles de sécurité dans des contextes quotidiens, comme traverser une rue.""",Humain
+6,Avancé,Compétences pratiques de vie et citoyenneté,"""Observer les habitudes d’hygiène personnelle et leur impact sur le bien-être.""",Humain
+6,Expert,Compétences pratiques de vie et citoyenneté,"""Découvrir les différences culturelles à travers des histoires ou des activités.""",Humain
+6,Maître,Compétences pratiques de vie et citoyenneté,"""S’engager dans des tâches communautaires simples, comme nettoyer un espace partagé.""",Humain
+7,Initié,Compétences pratiques de vie et citoyenneté,"""Travailler en équipe pour accomplir une tâche collective, comme organiser un jeu ou une fête.""",Humain
+7,Apprenti,Compétences pratiques de vie et citoyenneté,"""Discuter de l’importance des règles pour assurer la sécurité et l’équité.""",Humain
+7,Praticien,Compétences pratiques de vie et citoyenneté,"""Expliquer les raisons derrière des comportements responsables, comme recycler ou économiser l’eau.""",Humain
+7,Confirmé,Compétences pratiques de vie et citoyenneté,"""Participer à des simulations ou jeux de rôle pour explorer des métiers ou situations sociales.""",Humain
+7,Avancé,Compétences pratiques de vie et citoyenneté,"""Observer comment les décisions d’un groupe affectent les résultats pour tous.""",Humain
+7,Expert,Compétences pratiques de vie et citoyenneté,"""Proposer des idées pour améliorer leur environnement immédiat, comme décorer la classe.""",Humain
+7,Maître,Compétences pratiques de vie et citoyenneté,"""Créer un petit projet collectif, comme une affiche ou une histoire en groupe, pour représenter une valeur comme le respect ou l’entraide.""",Humain
+8,Initié,Compétences pratiques de vie et citoyenneté,"""Apprendre à respecter les règles dans des jeux et activités collectives.""",Humain
+8,Apprenti,Compétences pratiques de vie et citoyenneté,"""Partager des responsabilités simples, comme ranger après une activité.""",Humain
+8,Praticien,Compétences pratiques de vie et citoyenneté,"""Discuter de l’importance de l’honnêteté et du respect dans la vie quotidienne.""",Humain
+8,Confirmé,Compétences pratiques de vie et citoyenneté,"""Participer à des activités favorisant l’entraide et la collaboration.""",Humain
+8,Avancé,Compétences pratiques de vie et citoyenneté,"""Découvrir le rôle de la famille, de l’école et de la communauté.""",Humain
+8,Expert,Compétences pratiques de vie et citoyenneté,"""Exprimer des émotions de manière appropriée dans des situations sociales.""",Humain
+8,Maître,Compétences pratiques de vie et citoyenneté,"""Identifier des façons simples d’aider les autres dans son entourage.""",Humain
+9,Initié,Compétences pratiques de vie et citoyenneté,"""Reconnaître les causes fréquentes de conflits et proposer des solutions pacifiques.""",Humain
+9,Apprenti,Compétences pratiques de vie et citoyenneté,"""Collaborer dans des projets de groupe en respectant les rôles de chacun.""",Humain
+9,Praticien,Compétences pratiques de vie et citoyenneté,"""Fixer des objectifs personnels simples, comme économiser pour un achat.""",Humain
+9,Confirmé,Compétences pratiques de vie et citoyenneté,"""Comprendre les bases des droits et devoirs des citoyens dans une société.""",Humain
+9,Avancé,Compétences pratiques de vie et citoyenneté,"""Discuter de l’importance de la diversité et du respect des différences.""",Humain
+9,Expert,Compétences pratiques de vie et citoyenneté,"""Participer à des activités locales, comme un projet de nettoyage ou une collecte.""",Humain
+9,Maître,Compétences pratiques de vie et citoyenneté,"""Réfléchir à l’impact de ses actions sur les autres et sur l’environnement.""",Humain
+10,Initié,Compétences pratiques de vie et citoyenneté,"""Gérer son emploi du temps en équilibrant études, loisirs et responsabilités.""",Humain
+10,Apprenti,Compétences pratiques de vie et citoyenneté,"""Travailler en équipe pour résoudre des problèmes pratiques, comme organiser un événement.""",Humain
+10,Praticien,Compétences pratiques de vie et citoyenneté,"""Évaluer des scénarios pour prendre des décisions éthiques et responsables.""",Humain
+10,Confirmé,Compétences pratiques de vie et citoyenneté,"""Planifier des étapes pour atteindre des objectifs à moyen terme.""",Humain
+10,Avancé,Compétences pratiques de vie et citoyenneté,"""Découvrir les bases des finances personnelles, comme créer un budget simple.""",Humain
+10,Expert,Compétences pratiques de vie et citoyenneté,"""Participer activement à des initiatives communautaires, comme un club ou une association.""",Humain
+10,Maître,Compétences pratiques de vie et citoyenneté,"""Encourager la coopération et le leadership dans des projets collectifs.""",Humain
+11,Initié,Compétences pratiques de vie et citoyenneté,"""Appliquer des compétences avancées en gestion de projets, comme utiliser des outils numériques.""",IA
+11,Apprenti,Compétences pratiques de vie et citoyenneté,"""Analyser des enjeux sociaux et proposer des solutions pratiques et équitables.""",Humain
+11,Praticien,Compétences pratiques de vie et citoyenneté,"""S’engager dans des débats constructifs sur des sujets d’actualité locaux ou mondiaux.""",Humain
+11,Confirmé,Compétences pratiques de vie et citoyenneté,"""Développer un plan de carrière aligné avec ses forces et ses centres d’intérêt.""",Humain
+11,Avancé,Compétences pratiques de vie et citoyenneté,"""Participer à des projets d’entrepreneuriat ou de bénévolat pour améliorer sa communauté.""",Humain
+11,Expert,Compétences pratiques de vie et citoyenneté,"""Agir comme mentor ou modèle pour les plus jeunes dans des activités sociales.""",Humain
+11,Maître,Compétences pratiques de vie et citoyenneté,"""Proposer et réaliser un projet impactant sur le bien-être collectif ou environnemental.""",Humain
+12,Initié,Compétences pratiques de vie et citoyenneté,"""Comprendre les droits et responsabilités des citoyens dans une société démocratique.""",Humain
+12,Apprenti,Compétences pratiques de vie et citoyenneté,"""Participer à des activités collaboratives pour résoudre des problèmes simples en groupe.""",Humain
+12,Praticien,Compétences pratiques de vie et citoyenneté,"""Gérer des responsabilités personnelles, comme planifier son temps pour les études et les loisirs.""",Humain
+12,Confirmé,Compétences pratiques de vie et citoyenneté,"""Identifier des comportements éthiques dans des situations du quotidien.""",Humain
+12,Avancé,Compétences pratiques de vie et citoyenneté,"""Explorer les rôles et les fonctions des institutions locales et nationales.""",Humain
+12,Expert,Compétences pratiques de vie et citoyenneté,"""Discuter des valeurs fondamentales, comme l’équité, le respect et la responsabilité.""",Humain
+12,Maître,Compétences pratiques de vie et citoyenneté,"""S’engager dans des activités communautaires simples, comme des collectes ou des projets locaux.""",Humain
+13,Initié,Compétences pratiques de vie et citoyenneté,"""Fixer des objectifs personnels à court terme et planifier les étapes pour les atteindre.""",Humain
+13,Apprenti,Compétences pratiques de vie et citoyenneté,"""Participer activement à des projets de groupe, en assumant des rôles spécifiques.""",Humain
+13,Praticien,Compétences pratiques de vie et citoyenneté,"""Analyser des scénarios pour comprendre les conséquences de choix éthiques et responsables.""",Humain
+13,Confirmé,Compétences pratiques de vie et citoyenneté,"""Discuter des enjeux sociaux actuels, comme l’environnement ou l’égalité des genres.""",Humain
+13,Avancé,Compétences pratiques de vie et citoyenneté,"""Créer un budget simple pour comprendre les principes de gestion financière.""",Humain
+13,Expert,Compétences pratiques de vie et citoyenneté,"""Explorer les bases des métiers et des parcours éducatifs liés à ses centres d’intérêt.""",Humain
+13,Maître,Compétences pratiques de vie et citoyenneté,"""Contribuer à des initiatives locales pour améliorer la qualité de vie dans sa communauté.""",Humain
+14,Initié,Compétences pratiques de vie et citoyenneté,"""Développer des stratégies pour équilibrer études, travail et responsabilités personnelles.""",Humain
+14,Apprenti,Compétences pratiques de vie et citoyenneté,"""Collaborer sur des projets communautaires impliquant plusieurs partenaires ou institutions.""",Humain
+14,Praticien,Compétences pratiques de vie et citoyenneté,"""Participer à des débats structurés sur des questions d’actualité ou des dilemmes éthiques.""",Humain
+14,Confirmé,Compétences pratiques de vie et citoyenneté,"""Créer un plan de carrière en identifiant ses forces, ses intérêts et les opportunités éducatives.""",Humain
+14,Avancé,Compétences pratiques de vie et citoyenneté,"""Organiser des événements ou initiatives communautaires, comme des campagnes de sensibilisation.""",Humain
+14,Expert,Compétences pratiques de vie et citoyenneté,"""Proposer des solutions à des problèmes sociaux ou environnementaux complexes.""",Humain
+14,Maître,Compétences pratiques de vie et citoyenneté,"""Agir comme mentor ou guide pour aider d’autres élèves à développer leurs compétences sociales.""",Humain
+15,Initié,Compétences pratiques de vie et citoyenneté,"""Comprendre les droits et responsabilités des citoyens dans une démocratie.""",Humain
+15,Apprenti,Compétences pratiques de vie et citoyenneté,"""Apprendre à gérer son temps efficacement pour équilibrer études, travail et loisirs.""",Humain
+15,Praticien,Compétences pratiques de vie et citoyenneté,"""Participer à des discussions sur des enjeux sociaux simples, comme le recyclage ou la sécurité routière.""",Humain
+15,Confirmé,Compétences pratiques de vie et citoyenneté,"""Identifier les ressources communautaires disponibles pour le soutien personnel ou académique.""",Humain
+15,Avancé,Compétences pratiques de vie et citoyenneté,"""Apprendre à résoudre des conflits mineurs en utilisant des stratégies de communication assertive.""",Humain
+15,Expert,Compétences pratiques de vie et citoyenneté,"""S’engager dans des activités collaboratives pour contribuer à des projets de classe ou locaux.""",Humain
+15,Maître,Compétences pratiques de vie et citoyenneté,"""Observer l’impact de ses actions personnelles sur sa communauté ou son environnement.""",Humain
+16,Initié,Compétences pratiques de vie et citoyenneté,"""Fixer des objectifs à moyen terme, comme réussir un projet ou économiser pour un achat.""",Humain
+16,Apprenti,Compétences pratiques de vie et citoyenneté,"""Analyser des enjeux sociaux contemporains, comme l’égalité des genres ou la lutte contre la discrimination.""",Humain
+16,Praticien,Compétences pratiques de vie et citoyenneté,"""Participer à des initiatives citoyennes, comme des collectes de fonds ou des campagnes de sensibilisation.""",Humain
+16,Confirmé,Compétences pratiques de vie et citoyenneté,"""Planifier des activités collaboratives, comme organiser un événement scolaire ou communautaire.""",Humain
+16,Avancé,Compétences pratiques de vie et citoyenneté,"""Découvrir les bases de la gestion financière personnelle, comme créer un budget ou économiser.""",Humain
+16,Expert,Compétences pratiques de vie et citoyenneté,"""Explorer les implications éthiques des choix individuels et collectifs sur les autres.""",Humain
+16,Maître,Compétences pratiques de vie et citoyenneté,"""Proposer des idées concrètes pour améliorer la qualité de vie dans sa communauté.""",Humain
+17,Initié,Compétences pratiques de vie et citoyenneté,"""S’engager dans des projets de service communautaire ou de bénévolat à grande échelle.""",Humain
+17,Apprenti,Compétences pratiques de vie et citoyenneté,"""Collaborer sur des initiatives visant à résoudre des problèmes locaux ou régionaux.""",Humain
+17,Praticien,Compétences pratiques de vie et citoyenneté,"""Participer à des débats ou forums sur des enjeux complexes, comme le changement climatique ou les droits humains.""",Humain
+17,Confirmé,Compétences pratiques de vie et citoyenneté,"""Créer des plans à long terme pour atteindre des objectifs éducatifs ou professionnels.""",Humain
+17,Avancé,Compétences pratiques de vie et citoyenneté,"""Évaluer les politiques publiques et proposer des améliorations basées sur des recherches ou des observations.""",Humain
+17,Expert,Compétences pratiques de vie et citoyenneté,"""Organiser des campagnes de sensibilisation ou des projets éducatifs pour engager la communauté.""",Humain
+17,Maître,Compétences pratiques de vie et citoyenneté,"""Agir comme mentor ou guide pour encourager les autres à s’impliquer activement dans des causes sociales.""",Humain
